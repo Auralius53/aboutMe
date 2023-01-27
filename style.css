@@ -1,7 +1,7 @@
 .topIndex {
     border: solid 3px white;
     width: 70px;
-    height: 25px;
+    padding: 5px;
     text-align: center;
     margin: auto;
     margin-top: 50px;
@@ -13,7 +13,7 @@
 .linkIndex {
     text-decoration: none;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
