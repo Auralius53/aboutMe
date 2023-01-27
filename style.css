@@ -1,0 +1,77 @@
+.topIndex {
+    border: solid 3px white;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 500px;
+    background-color: black;
+    border-radius: 6px;
+}
+
+.linkIndex {
+    text-decoration: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topTitle {
+    border: solid 3px rgb(243, 243, 243);
+    width: 500px;
+    margin-left: 500px;
+}
+
+.socialLinks {
+    border: solid 3px rgb(243, 243, 243);
+    width: 500px;
+    margin-left: 500px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.paragraphBody {
+    border: solid 3px rgb(243, 243, 243);
+    width: 500px;
+    margin-left: 500px;
+    height: 500px;
+}
+
+.bodyHeading {
+    font-size: 22px;
+}
+
+hr {
+    margin: none;
+}
+
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+.creditText {
+    font-size: 10px;
+    color: rgb(203, 203, 203);
+}
+
+.creditDiv {
+    border: solid 3px rgb(243, 243, 243);
+    margin-top: 40px;
+}
